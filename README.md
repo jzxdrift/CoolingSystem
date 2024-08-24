@@ -1,6 +1,6 @@
 DC-DC converter and inverter cooling system.
 
-#S1 – ignition toggle switch  
+S1 – ignition toggle switch  
 T1 – temperature sensor  
 L1 – liquid level switch  
 K1, K2 – 24VDC relays  
